@@ -1,10 +1,4 @@
 {
-  "settings": {
-    "y_axis": {
-      "visible": false,
-      "title": ""
-    }
-  },
   "intervals": [
     {
       "iid": 1,

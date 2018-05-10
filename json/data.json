@@ -1,8 +1,8 @@
 {
   "settings": {
     "y_axis": {
-      "visible": true,
-      "title": "Copy number"
+      "title": "copy number",
+      "visible": true
     }
   },
   "intervals": [
@@ -20658,7 +20658,7 @@
           "weight": 1
         },
         {
-          "cid": 761,
+          "cid": 629,
           "source": 30,
           "sink": -31,
           "title": "",
@@ -20736,7 +20736,7 @@
           "strand": "-"
         },
         {
-          "iid": 517,
+          "iid": 494,
           "chromosome": "11",
           "startPoint": 57956833,
           "endPoint": 57957757,
@@ -20746,7 +20746,7 @@
           "strand": "+"
         },
         {
-          "iid": 518,
+          "iid": 495,
           "chromosome": "11",
           "startPoint": 62136804,
           "endPoint": 62347004,
@@ -21477,7 +21477,7 @@
           "strand": "+"
         },
         {
-          "iid": 548,
+          "iid": 498,
           "chromosome": "19",
           "startPoint": 15700592,
           "endPoint": 15742951,
@@ -21955,7 +21955,7 @@
           "strand": "+"
         },
         {
-          "iid": 539,
+          "iid": 499,
           "chromosome": "14",
           "startPoint": 105229602,
           "endPoint": 105229602,
@@ -22143,7 +22143,7 @@
           "strand": "-"
         },
         {
-          "iid": 612,
+          "iid": 310,
           "chromosome": "22",
           "startPoint": 50357479,
           "endPoint": 51304566,
@@ -23392,7 +23392,7 @@
           "strand": "+"
         },
         {
-          "iid": 822,
+          "iid": 506,
           "chromosome": "8",
           "startPoint": 43331136,
           "endPoint": 43501201,
@@ -23878,7 +23878,7 @@
           "strand": "-"
         },
         {
-          "iid": 621,
+          "iid": 511,
           "chromosome": "21",
           "startPoint": 15704602,
           "endPoint": 15704602,
@@ -24663,7 +24663,7 @@
           "strand": "-"
         },
         {
-          "iid": 648,
+          "iid": 518,
           "chromosome": "21",
           "startPoint": 14879402,
           "endPoint": 14879402,
@@ -26338,7 +26338,7 @@
           "strand": "+"
         },
         {
-          "iid": 591,
+          "iid": 539,
           "chromosome": "19",
           "startPoint": 15700592,
           "endPoint": 15742951,
@@ -29690,7 +29690,7 @@
           "strand": "+"
         },
         {
-          "iid": 995,
+          "iid": 589,
           "chromosome": "8",
           "startPoint": 102462746,
           "endPoint": 146364022,
@@ -30380,7 +30380,7 @@
           "weight": 1
         },
         {
-          "cid": 689,
+          "cid": 350,
           "source": 425,
           "sink": -426,
           "title": "",
@@ -30430,7 +30430,7 @@
           "strand": "+"
         },
         {
-          "iid": 1026,
+          "iid": 606,
           "chromosome": "14",
           "startPoint": 21732022,
           "endPoint": 33431206,
@@ -30440,7 +30440,7 @@
           "strand": "+"
         },
         {
-          "iid": 1027,
+          "iid": 607,
           "chromosome": "14",
           "startPoint": 33440130,
           "endPoint": 107349540,
@@ -34500,7 +34500,7 @@
           "strand": "-"
         },
         {
-          "iid": 1105,
+          "iid": 635,
           "chromosome": "12",
           "startPoint": 66107694,
           "endPoint": 70176402,
