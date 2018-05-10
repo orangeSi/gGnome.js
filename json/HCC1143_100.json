@@ -1,4 +1,10 @@
 {
+  "settings": {
+    "y_axis": {
+      "title": "copy number",
+      "visible": true
+    }
+  },
   "intervals": [
     {
       "iid": 1,
