@@ -1,0 +1,280 @@
+{
+  "subintervals": [
+    {
+      "siid": 1,
+      "iid": 1,
+      "startPoint": 24942818,
+      "endPoint": 24946933,
+      "title": "1.1 (1|13)",
+      "type": "ref",
+      "sequence": ""
+    },
+    {
+      "siid": 2,
+      "iid": 1,
+      "startPoint": 24946934,
+      "endPoint": 24946934,
+      "title": "1.2 (2|14)",
+      "type": "ref",
+      "sequence": "T"
+    },
+    {
+      "siid": 3,
+      "iid": 1,
+      "startPoint": 24946934,
+      "endPoint": 24946934,
+      "title": "1.3 (3|15)",
+      "type": "variant",
+      "sequence": "C"
+    },
+    {
+      "siid": 4,
+      "iid": 1,
+      "startPoint": 24946935,
+      "endPoint": 24952816,
+      "title": "1.4 (4|16)",
+      "type": "ref",
+      "sequence": ""
+    },
+    {
+      "siid": 5,
+      "iid": 2,
+      "startPoint": 24952817,
+      "endPoint": 24953083,
+      "title": "2.1 (5|17)",
+      "type": "ref",
+      "sequence": ""
+    },
+    {
+      "siid": 6,
+      "iid": 3,
+      "startPoint": 24953084,
+      "endPoint": 24954280,
+      "title": "3.1 (6|18)",
+      "type": "ref",
+      "sequence": ""
+    },
+    {
+      "siid": 7,
+      "iid": 3,
+      "startPoint": 24954281,
+      "endPoint": 24954281,
+      "title": "3.2 (7|19)",
+      "type": "ref",
+      "sequence": "C"
+    },
+    {
+      "siid": 8,
+      "iid": 3,
+      "startPoint": 24954281,
+      "endPoint": 24954281,
+      "title": "3.3 (8|20)",
+      "type": "variant",
+      "sequence": "T"
+    },
+    {
+      "siid": 9,
+      "iid": 3,
+      "startPoint": 24954282,
+      "endPoint": 24962463,
+      "title": "3.4 (9|21)",
+      "type": "ref",
+      "sequence": ""
+    },
+    {
+      "siid": 10,
+      "iid": 3,
+      "startPoint": 24962464,
+      "endPoint": 24962464,
+      "title": "3.5 (10|22)",
+      "type": "ref",
+      "sequence": "T"
+    },
+    {
+      "siid": 11,
+      "iid": 3,
+      "startPoint": 24962464,
+      "endPoint": 24962464,
+      "title": "3.6 (11|23)",
+      "type": "variant",
+      "sequence": "C"
+    },
+    {
+      "siid": 12,
+      "iid": 3,
+      "startPoint": 24962465,
+      "endPoint": 24963082,
+      "title": "3.7 (12|24)",
+      "type": "ref",
+      "sequence": ""
+    }
+  ],
+  "subconnections": [
+    {
+      "scid": 1,
+      "iid": 1,
+      "source": 1,
+      "sink": -2,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "scid": 2,
+      "iid": 1,
+      "source": 2,
+      "sink": -4,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "scid": 3,
+      "iid": 3,
+      "source": 6,
+      "sink": -7,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "scid": 4,
+      "iid": 3,
+      "source": 7,
+      "sink": -9,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "scid": 5,
+      "iid": 3,
+      "source": 9,
+      "sink": -10,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "scid": 6,
+      "iid": 3,
+      "source": 10,
+      "sink": -12,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "scid": 13,
+      "iid": 1,
+      "source": 1,
+      "sink": -3,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    },
+    {
+      "scid": 14,
+      "iid": 1,
+      "source": 3,
+      "sink": -4,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    },
+    {
+      "scid": 15,
+      "iid": 3,
+      "source": 6,
+      "sink": -8,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    },
+    {
+      "scid": 16,
+      "iid": 3,
+      "source": 8,
+      "sink": -9,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    },
+    {
+      "scid": 17,
+      "iid": 3,
+      "source": 9,
+      "sink": -11,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    },
+    {
+      "scid": 18,
+      "iid": 3,
+      "source": 11,
+      "sink": -12,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    }
+  ],
+  "intervals": [
+    {
+      "iid": 1,
+      "chromosome": "1",
+      "startPoint": 24942818,
+      "endPoint": 24952816,
+      "y": 3,
+      "title": "1 (1|4)",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "iid": 2,
+      "chromosome": "1",
+      "startPoint": 24952817,
+      "endPoint": 24953083,
+      "y": 2,
+      "title": "2 (2|5)",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "iid": 3,
+      "chromosome": "1",
+      "startPoint": 24953084,
+      "endPoint": 24963082,
+      "y": 3,
+      "title": "3 (3|6)",
+      "type": "interval",
+      "strand": "*"
+    }
+  ],
+  "connections": [
+    {
+      "cid": 1,
+      "source": 1,
+      "sink": -2,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    },
+    {
+      "cid": 2,
+      "source": 1,
+      "sink": -3,
+      "title": "",
+      "type": "ALT",
+      "weight": 1
+    },
+    {
+      "cid": 3,
+      "source": 2,
+      "sink": -3,
+      "title": "",
+      "type": "REF",
+      "weight": 2
+    }
+  ]
+}
